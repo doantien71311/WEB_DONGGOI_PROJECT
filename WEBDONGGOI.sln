@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBDONGGOI", "WEBDONGGOI\WEBDONGGOI.csproj", "{BA0F6C15-6532-4DDB-BFE7-B1D312B64B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0F6C15-6532-4DDB-BFE7-B1D312B64B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0F6C15-6532-4DDB-BFE7-B1D312B64B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0F6C15-6532-4DDB-BFE7-B1D312B64B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0F6C15-6532-4DDB-BFE7-B1D312B64B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D437E42F-CE82-4415-BA9A-307B22D53159}
+	EndGlobalSection
+EndGlobal

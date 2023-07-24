@@ -1,0 +1,33 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>WEBDONGGOI</PageTitle>
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        </div>
+
+        <article class="content px-4">
+            <div class="demo-container">
+                <div class="html-editor"></div>
+                <div class="options">
+                    <div class="caption">Options</div>
+                    <div class="option">
+                        <div id="multiline"></div>
+                    </div>
+                    <div class="option">
+                        <div class="label">Image upload tabs:</div>
+                        <div id="image-uploader-tabs"></div>
+                    </div>
+                </div>
+            </div>
+            @Body
+        </article>
+    </main>
+</div>
+
