@@ -1,75 +1,75 @@
 {
   "Files": [
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/obj/Debug/net7.0/scopedcss/projectbundle/WEBDONGGOI.bundle.scp.css",
-      "PackagePath": "staticwebassets/WEBDONGGOI.bundle.scp.css"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WEBDONGGOI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WEBDONGGOI.bundle.scp.css"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/FONT-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/ICON-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/README.md",
-      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/admin/Projects/WEBDONGGOI/WEBDONGGOI/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "D:\\ERP_PROJECT\\WEB_DONGGOI_PROJECT_NEW\\WEBDONGGOI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.WEBDONGGOI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WEBDONGGOI.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.WEBDONGGOI.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WEBDONGGOI.props",
       "PackagePath": "build\\WEBDONGGOI.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WEBDONGGOI.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WEBDONGGOI.props",
       "PackagePath": "buildMultiTargeting\\WEBDONGGOI.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WEBDONGGOI.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WEBDONGGOI.props",
       "PackagePath": "buildTransitive\\WEBDONGGOI.props"
     }
   ],
